@@ -13,5 +13,14 @@ AJUDA:
 Exemplo:
    http-loop -d www.microsoft.com
 
+Recursos a desenvolver:
+   -x       : baixar referencias de links na pagina principal (css, js, imagens)
+              para simular melhor um usuario navegando
+
+   -r       : randomizar lista de sites, assim links quebrados terao menos impacto
+              na simulacao
+
+   -i       : modo informativo (verbose, debug level 1), mostrar urls sendo baixadas
+              e velocidade consumida
 
 </pre>
